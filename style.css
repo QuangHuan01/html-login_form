@@ -1,5 +1,5 @@
 *{
-    margin: 0 auto;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -33,7 +33,7 @@ form{
 
 label{
     display: inline-block;
-    margin-bottom: 8px;
+    margin-bottom: 8px ;
 }
 
 .form-group{
